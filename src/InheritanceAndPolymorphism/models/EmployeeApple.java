@@ -1,4 +1,4 @@
-package models;
+package InheritanceAndPolymorphism.models;
 /*
     EmployeeApple is a class that inherits the properties from 'EmployeeMainCompany' class.
 
