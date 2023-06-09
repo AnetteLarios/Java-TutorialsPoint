@@ -1,4 +1,4 @@
-package models;
+package InheritanceAndPolymorphism.models;
 /*
 EmployeeMainCompany is the main model from a fake company
 

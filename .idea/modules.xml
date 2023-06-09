@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-TutorialsPoint-PolymorphismExample.iml" filepath="$PROJECT_DIR$/Java-TutorialsPoint-PolymorphismExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-TutorialsPoint.iml" filepath="$PROJECT_DIR$/Java-TutorialsPoint.iml" />
     </modules>
   </component>
 </project>

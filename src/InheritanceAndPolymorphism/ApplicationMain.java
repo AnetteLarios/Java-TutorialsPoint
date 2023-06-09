@@ -1,12 +1,16 @@
-import models.EmployeeApple;
-import models.EmployeeMainCompany;
-    /*
+package InheritanceAndPolymorphism;
+
+/*
     Application main class calls main function that executes the process of creating objects of two classes
     to show how polymorphism works, and how properties can be inherited from another class.
 
     @author Anette Larios
     @since 09-06-2023
+    @version 1.8.0
      */
+
+import InheritanceAndPolymorphism.models.EmployeeApple;
+import InheritanceAndPolymorphism.models.EmployeeMainCompany;
 
 public class ApplicationMain {
 
