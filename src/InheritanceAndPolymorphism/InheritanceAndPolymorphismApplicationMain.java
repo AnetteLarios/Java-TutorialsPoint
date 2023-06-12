@@ -12,7 +12,7 @@ package InheritanceAndPolymorphism;
 import InheritanceAndPolymorphism.models.EmployeeApple;
 import InheritanceAndPolymorphism.models.EmployeeMainCompany;
 
-public class ApplicationMain {
+public class InheritanceAndPolymorphismApplicationMain {
 
     public static void main(String[] args) {
         /*
