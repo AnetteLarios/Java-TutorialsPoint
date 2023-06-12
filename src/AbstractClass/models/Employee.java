@@ -22,7 +22,6 @@ public abstract class Employee {
 
     /*
     mailCheck function prints employee's data.
-
     @author AnetteLarios
      */
     public void mailCheck(){
@@ -39,16 +38,12 @@ public abstract class Employee {
         return name + " " + address + " " + number;
     }
     //getters
-
-
     public int getNumber(){
         return number;
     }
-
     public String getName(){
         return name;
     }
-
     public String getAddress(){
         return address;
     }
@@ -56,6 +51,5 @@ public abstract class Employee {
     public void setAddress (String address){
         this.address = address;
     }
-
 }
 
