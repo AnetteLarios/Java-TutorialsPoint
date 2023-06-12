@@ -12,7 +12,6 @@ public class EmployeeMainCompany {
 
     //Class constructor
     public EmployeeMainCompany(String name, String address, int number){
-
         this.name = name;
         this.address  = address;
         this.number = number;
