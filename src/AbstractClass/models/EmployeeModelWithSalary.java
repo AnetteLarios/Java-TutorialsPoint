@@ -36,7 +36,4 @@ public class EmployeeModelWithSalary extends Employee {
             this.salary = salary;
         }
     }
-
-
-
 }
