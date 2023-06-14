@@ -69,4 +69,18 @@ public class VectorExample {
             System.out.print(vectorEnum.nextElement() + " ");
         System.out.println();
     }
+
+    public static class MapExample1 {
+
+        public static void main (String [] args){
+            Map m1 = new HashMap();
+            m1.put("Zara", "8");
+            m1.put("Alex", "31");
+            m1.put("Ayan", "12");
+            m1.put("Daisy", "14");
+
+            System.out.println("Map elements");
+            System.out.println("\t" + m1);
+        }
+    }
 }
